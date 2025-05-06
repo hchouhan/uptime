@@ -4,11 +4,11 @@
     "url": "https://webtions.com",
     "icon": "https://icons.duckduckgo.com/ip3/webtions.com.ico",
     "slug": "webtions-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 617,
     "timeDay": 573,
@@ -16,6 +16,7 @@
     "timeMonth": 601,
     "timeYear": 617,
     "dailyMinutesDown": {
+      "2025-05-06": 2,
       "2025-04-16": 18
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://harishchouhan.com",
     "icon": "https://icons.duckduckgo.com/ip3/harishchouhan.com.ico",
     "slug": "harish-chouhan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 618,
@@ -36,6 +37,7 @@
     "timeMonth": 604,
     "timeYear": 618,
     "dailyMinutesDown": {
+      "2025-05-06": 2,
       "2025-04-16": 18
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://flattrendz.com",
     "icon": "https://icons.duckduckgo.com/ip3/flattrendz.com.ico",
     "slug": "flat-trendz",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 345,
     "timeYear": 309,
     "dailyMinutesDown": {
+      "2025-05-06": 0,
       "2025-04-16": 18
     }
   }
