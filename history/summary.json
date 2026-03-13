@@ -4,18 +4,19 @@
     "url": "https://webtions.com",
     "icon": "https://icons.duckduckgo.com/ip3/webtions.com.ico",
     "slug": "webtions-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.13%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.28%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "99.29%",
     "time": 386,
-    "timeDay": 206,
-    "timeWeek": 275,
+    "timeDay": 219,
+    "timeWeek": 274,
     "timeMonth": 258,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2026-03-13": 0,
       "2026-03-11": 42,
       "2026-03-08": 65,
       "2026-03-07": 81,
@@ -71,8 +72,7 @@
       "2025-12-15": 66,
       "2025-12-14": 41,
       "2025-12-13": 18,
-      "2025-12-10": 77,
-      "2025-12-09": 32
+      "2025-12-10": 77
     }
   },
   {
@@ -80,18 +80,19 @@
     "url": "https://harishchouhan.com",
     "icon": "https://icons.duckduckgo.com/ip3/harishchouhan.com.ico",
     "slug": "harish-chouhan",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.13%",
-    "uptimeMonth": "96.93%",
-    "uptimeYear": "99.28%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "99.29%",
     "time": 594,
-    "timeDay": 168,
-    "timeWeek": 346,
-    "timeMonth": 517,
+    "timeDay": 245,
+    "timeWeek": 345,
+    "timeMonth": 515,
     "timeYear": 592,
     "dailyMinutesDown": {
+      "2026-03-13": 0,
       "2026-03-11": 42,
       "2026-03-08": 65,
       "2026-03-07": 81,
@@ -148,7 +149,7 @@
       "2025-12-15": 66,
       "2025-12-14": 41,
       "2025-12-13": 18,
-      "2025-12-10": 77
+      "2025-12-10": 38
     }
   },
   {
