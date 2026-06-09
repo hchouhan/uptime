@@ -4,19 +4,18 @@
     "url": "https://webtions.com",
     "icon": "https://icons.duckduckgo.com/ip3/webtions.com.ico",
     "slug": "webtions-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.24%",
-    "time": 355,
-    "timeDay": 671,
-    "timeWeek": 608,
-    "timeMonth": 448,
+    "time": 354,
+    "timeDay": 398,
+    "timeWeek": 548,
+    "timeMonth": 438,
     "timeYear": 335,
     "dailyMinutesDown": {
-      "2025-12-30": 21,
       "2026-01-02": 27,
       "2026-01-03": 44,
       "2026-01-05": 26,
@@ -70,7 +69,8 @@
       "2026-03-21": 49,
       "2026-03-22": 97,
       "2026-03-23": 43,
-      "2026-04-16": 65
+      "2026-04-16": 65,
+      "2026-06-09": 0
     }
   },
   {
@@ -152,16 +152,16 @@
     "url": "https://flattrendz.com",
     "icon": "https://icons.duckduckgo.com/ip3/flattrendz.com.ico",
     "slug": "flat-trendz",
-    "status": "up",
+    "status": "down",
     "uptime": "97.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.84%",
-    "time": 260,
-    "timeDay": 691,
-    "timeWeek": 498,
-    "timeMonth": 435,
+    "time": 259,
+    "timeDay": 404,
+    "timeWeek": 450,
+    "timeMonth": 425,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-06-25": 30,
@@ -190,7 +190,8 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 640,
-      "2026-04-17": 59
+      "2026-04-17": 59,
+      "2026-06-09": 0
     }
   }
 ]
