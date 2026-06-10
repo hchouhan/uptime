@@ -4,16 +4,16 @@
     "url": "https://webtions.com",
     "icon": "https://icons.duckduckgo.com/ip3/webtions.com.ico",
     "slug": "webtions-com",
-    "status": "down",
-    "uptime": "99.52%",
-    "uptimeDay": "68.13%",
-    "uptimeWeek": "95.45%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "99.16%",
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "53.30%",
+    "uptimeWeek": "93.33%",
+    "uptimeMonth": "98.46%",
+    "uptimeYear": "99.12%",
     "time": 379,
-    "timeDay": 360,
-    "timeWeek": 503,
-    "timeMonth": 431,
+    "timeDay": 328,
+    "timeWeek": 506,
+    "timeMonth": 426,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2026-01-03": 44,
@@ -69,7 +69,8 @@
       "2026-03-22": 97,
       "2026-03-23": 43,
       "2026-04-16": 65,
-      "2026-06-09": 459
+      "2026-06-09": 671,
+      "2026-06-10": 2
     }
   },
   {
@@ -83,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.25%",
-    "time": 578,
-    "timeDay": 679,
-    "timeWeek": 596,
-    "timeMonth": 595,
-    "timeYear": 570,
+    "time": 579,
+    "timeDay": 769,
+    "timeWeek": 618,
+    "timeMonth": 596,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-12-26": 22,
       "2025-12-28": 22,
@@ -152,15 +153,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/flattrendz.com.ico",
     "slug": "flat-trendz",
     "status": "down",
-    "uptime": "97.54%",
-    "uptimeDay": "59.60%",
-    "uptimeWeek": "94.23%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "95.73%",
+    "uptime": "97.52%",
+    "uptimeDay": "44.74%",
+    "uptimeWeek": "92.11%",
+    "uptimeMonth": "98.18%",
+    "uptimeYear": "95.68%",
     "time": 259,
-    "timeDay": 404,
-    "timeWeek": 450,
-    "timeMonth": 425,
+    "timeDay": 173,
+    "timeWeek": 426,
+    "timeMonth": 410,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-06-25": 30,
@@ -190,7 +191,8 @@
       "2025-09-02": 1440,
       "2025-09-01": 640,
       "2026-04-17": 59,
-      "2026-06-09": 582
+      "2026-06-10": 3,
+      "2026-06-09": 793
     }
   }
 ]
