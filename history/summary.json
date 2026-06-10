@@ -4,16 +4,16 @@
     "url": "https://webtions.com",
     "icon": "https://icons.duckduckgo.com/ip3/webtions.com.ico",
     "slug": "webtions-com",
-    "status": "down",
-    "uptime": "99.48%",
-    "uptimeDay": "49.08%",
-    "uptimeWeek": "90.79%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "99.08%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "49.10%",
+    "uptimeWeek": "88.71%",
+    "uptimeMonth": "97.40%",
+    "uptimeYear": "99.04%",
     "time": 378,
-    "timeDay": 333,
-    "timeWeek": 441,
-    "timeMonth": 413,
+    "timeDay": 360,
+    "timeWeek": 447,
+    "timeMonth": 416,
     "timeYear": 335,
     "dailyMinutesDown": {
       "2026-01-05": 26,
@@ -69,7 +69,7 @@
       "2026-03-23": 43,
       "2026-04-16": 65,
       "2026-06-09": 671,
-      "2026-06-10": 258
+      "2026-06-10": 467
     }
   },
   {
@@ -152,11 +152,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/flattrendz.com.ico",
     "slug": "flat-trendz",
     "status": "down",
-    "uptime": "97.43%",
+    "uptime": "97.40%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "83.78%",
-    "uptimeMonth": "96.27%",
-    "uptimeYear": "95.52%",
+    "uptimeWeek": "81.70%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "95.49%",
     "time": 259,
     "timeDay": 229,
     "timeWeek": 395,
@@ -190,7 +190,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 640,
       "2026-04-17": 59,
-      "2026-06-10": 842,
+      "2026-06-10": 1052,
       "2026-06-09": 793
     }
   }
