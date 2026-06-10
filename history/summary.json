@@ -12,7 +12,7 @@
     "uptimeYear": "99.12%",
     "time": 379,
     "timeDay": 328,
-    "timeWeek": 506,
+    "timeWeek": 493,
     "timeMonth": 426,
     "timeYear": 335,
     "dailyMinutesDown": {
@@ -86,7 +86,7 @@
     "uptimeYear": "99.25%",
     "time": 579,
     "timeDay": 769,
-    "timeWeek": 618,
+    "timeWeek": 615,
     "timeMonth": 596,
     "timeYear": 571,
     "dailyMinutesDown": {
@@ -153,14 +153,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/flattrendz.com.ico",
     "slug": "flat-trendz",
     "status": "down",
-    "uptime": "97.52%",
-    "uptimeDay": "44.74%",
-    "uptimeWeek": "92.11%",
-    "uptimeMonth": "98.18%",
-    "uptimeYear": "95.68%",
+    "uptime": "97.49%",
+    "uptimeDay": "30.18%",
+    "uptimeWeek": "90.03%",
+    "uptimeMonth": "97.70%",
+    "uptimeYear": "95.64%",
     "time": 259,
     "timeDay": 173,
-    "timeWeek": 426,
+    "timeWeek": 395,
     "timeMonth": 410,
     "timeYear": 237,
     "dailyMinutesDown": {
@@ -191,7 +191,7 @@
       "2025-09-02": 1440,
       "2025-09-01": 640,
       "2026-04-17": 59,
-      "2026-06-10": 3,
+      "2026-06-10": 213,
       "2026-06-09": 793
     }
   }
